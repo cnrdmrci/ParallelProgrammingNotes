@@ -1,0 +1,2 @@
+# ParallelProgrammingNotes
+Paralel Programlama Notları
